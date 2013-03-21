@@ -1,5 +1,3 @@
 testproject
 ===========
-test
-ftest
-kan fdasfdsafdsafdsa
+test.test.test
